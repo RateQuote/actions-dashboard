@@ -4,7 +4,7 @@ A real-time dashboard for viewing GitHub Actions workflow runs across the entire
 
 ## 🌐 Live Dashboard
 
-Access the dashboard at: **https://ratequote.github.io/actions-dashboard** (or whatever URL we set up)
+Access the dashboard at: **https://ratequote.github.io/actions-dashboard/**
 
 ## 🔑 Setup
 
